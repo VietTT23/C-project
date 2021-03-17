@@ -1,0 +1,77 @@
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\FormQuanLyBTL.exe
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\FormQuanLyBTL.pdb
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmDN.resources
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.Properties.Resources.resources
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.csproj.GenerateResource.Cache
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.exe
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.pdb
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.csprojResolveAssemblyReference.cache
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmBTL.resources
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmBTL_SV.resources
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmCD.resources
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmCD_SV.resources
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmDK.resources
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmGV.resources
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmHOCPHAN.resources
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmHOIDONG.resources
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmLOP.resources
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmMain.resources
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmSINHVIEN.resources
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmTK.resources
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\FormQuanLyBTL.exe.config
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\DataAccess.dll
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\Lopdata.dll
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\DataAccess.pdb
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\Lopdata.pdb
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\FormQuanLyBTL.exe.config
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.exe
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.pdb
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\FormQuanLyBTL.exe
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\FormQuanLyBTL.pdb
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\DataAccess.dll
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\Lopdata.dll
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\DataAccess.pdb
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\Lopdata.pdb
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.csprojResolveAssemblyReference.cache
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmBTL.resources
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmBTL_SV.resources
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmCD.resources
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmCD_SV.resources
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmDK.resources
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmDN.resources
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmGV.resources
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmHOCPHAN.resources
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmHOIDONG.resources
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmLOP.resources
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmMain.resources
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmSINHVIEN.resources
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmTK.resources
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.Properties.Resources.resources
+E:\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.csproj.GenerateResource.Cache
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\FormQuanLyBTL.exe.config
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\FormQuanLyBTL.exe
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\FormQuanLyBTL.pdb
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\DataAccess.dll
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\Lopdata.dll
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\DataAccess.pdb
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\bin\Debug\Lopdata.pdb
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.csprojAssemblyReference.cache
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmBTL.resources
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmBTL_SV.resources
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmCD.resources
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmCD_SV.resources
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmDK.resources
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmDN.resources
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmGV.resources
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmHOCPHAN.resources
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmHOIDONG.resources
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmLOP.resources
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmMain.resources
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmSINHVIEN.resources
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.frmTK.resources
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.Properties.Resources.resources
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.csproj.GenerateResource.cache
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.csproj.CoreCompileInputs.cache
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.csproj.CopyComplete
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.exe
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\FormQuanLyBTL\obj\x86\Debug\FormQuanLyBTL.pdb

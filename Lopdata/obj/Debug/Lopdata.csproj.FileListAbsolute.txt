@@ -1,0 +1,16 @@
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\Lopdata\bin\Debug\Lopdata.dll
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\Lopdata\bin\Debug\Lopdata.pdb
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\Lopdata\bin\Debug\DataAccess.dll
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\Lopdata\bin\Debug\DataAccess.pdb
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\Lopdata\obj\Debug\Lopdata.csprojResolveAssemblyReference.cache
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\Lopdata\obj\Debug\Lopdata.dll
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\Lopdata\obj\Debug\Lopdata.pdb
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\Lopdata\bin\Debug\Lopdata.dll
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\Lopdata\bin\Debug\Lopdata.pdb
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\Lopdata\bin\Debug\DataAccess.dll
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\Lopdata\bin\Debug\DataAccess.pdb
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\Lopdata\obj\Debug\Lopdata.csprojAssemblyReference.cache
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\Lopdata\obj\Debug\Lopdata.csproj.CoreCompileInputs.cache
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\Lopdata\obj\Debug\Lopdata.csproj.CopyComplete
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\Lopdata\obj\Debug\Lopdata.dll
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\Lopdata\obj\Debug\Lopdata.pdb

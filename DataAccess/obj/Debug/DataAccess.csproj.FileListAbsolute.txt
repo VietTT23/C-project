@@ -1,0 +1,10 @@
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\thang\Desktop\Nhóm 9 - LTNC\formDemo\DataAccess\obj\Debug\DataAccess.pdb
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\DataAccess\bin\Debug\DataAccess.dll
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\DataAccess\bin\Debug\DataAccess.pdb
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\DataAccess\obj\Debug\DataAccess.dll
+E:\Học tập\BÀI TẬP LỚN CỦA tHANG\Nhóm 9 - LTNC\formDemo\DataAccess\obj\Debug\DataAccess.pdb

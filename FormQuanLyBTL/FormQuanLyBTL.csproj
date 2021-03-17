@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{78CD51B1-2ED1-43A4-B64F-8CDA9E6EF7A5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FormQuanLyBTL</RootNamespace>
+    <AssemblyName>FormQuanLyBTL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dataset1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Dataset1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmBTL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBTL.Designer.cs">
+      <DependentUpon>frmBTL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBTL_SV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBTL_SV.Designer.cs">
+      <DependentUpon>frmBTL_SV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCD.Designer.cs">
+      <DependentUpon>frmCD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCD_SV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCD_SV.Designer.cs">
+      <DependentUpon>frmCD_SV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDK.Designer.cs">
+      <DependentUpon>frmDK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDN.Designer.cs">
+      <DependentUpon>frmDN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGV.Designer.cs">
+      <DependentUpon>frmGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHOCPHAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHOCPHAN.Designer.cs">
+      <DependentUpon>frmHOCPHAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHOIDONG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHOIDONG.Designer.cs">
+      <DependentUpon>frmHOIDONG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLOP.Designer.cs">
+      <DependentUpon>frmLOP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSINHVIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSINHVIEN.Designer.cs">
+      <DependentUpon>frmSINHVIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTK.Designer.cs">
+      <DependentUpon>frmTK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>login.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmBTL.resx">
+      <DependentUpon>frmBTL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBTL_SV.resx">
+      <DependentUpon>frmBTL_SV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCD.resx">
+      <DependentUpon>frmCD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCD_SV.resx">
+      <DependentUpon>frmCD_SV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDK.resx">
+      <DependentUpon>frmDK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDN.resx">
+      <DependentUpon>frmDN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGV.resx">
+      <DependentUpon>frmGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHOCPHAN.resx">
+      <DependentUpon>frmHOCPHAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHOIDONG.resx">
+      <DependentUpon>frmHOIDONG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLOP.resx">
+      <DependentUpon>frmLOP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSINHVIEN.resx">
+      <DependentUpon>frmSINHVIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTK.resx">
+      <DependentUpon>frmTK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Dataset1.xsc">
+      <DependentUpon>Dataset1.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Dataset1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Dataset1.xss">
+      <DependentUpon>Dataset1.xsd</DependentUpon>
+    </None>
+    <None Include="login.xsc">
+      <DependentUpon>login.xsd</DependentUpon>
+    </None>
+    <None Include="login.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>login.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="login.xss">
+      <DependentUpon>login.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thuchien.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1395337265_exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1395337265_exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1395337265_exit_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1395337344_document_search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app_481.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_refresh_small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beer_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blinklist_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit_2_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Info_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\J0099188.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\J0143745.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\J0143748.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\J0143749.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\J0143750.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\J0143753.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\J0143758.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\J00991881.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kho hang1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modify_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paper_content_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paper_content_chart_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Profile1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Profile_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tieude.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thuchien1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_add_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_delete_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users_two_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tlu.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bangphan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{CAAA603B-B2F9-4EA0-8416-C2DE5805A148}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lopdata\Lopdata.csproj">
+      <Project>{29BA5D54-0ADA-4FC5-ACCF-6461B7F5F98B}</Project>
+      <Name>Lopdata</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
